@@ -47,7 +47,7 @@ foreach (@rooms) {
     # Room 22 is special
     if ($1 == 22) {
       print "Robin Banks\n";
-      print "Carol Ing\n";
+      print "Holly Day Ing\n";
       print "Marcus Absent\n";
       print "Dewey Havtoo\n";
       print "Luke Out\n";
