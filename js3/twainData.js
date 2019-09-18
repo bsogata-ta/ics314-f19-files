@@ -135,7 +135,7 @@ const twainData = [
     roomNumber: 22,
     occupants: 5,
     residents: 1,
-    lastPowerSpike: new Date(2019, 8, 16, 4, 24, 28, 8)
+    lastPowerSpike: new Date(2019, 8, 16, 5, 24, 28, 8)
   },
   {
     roomNumber: 23,
